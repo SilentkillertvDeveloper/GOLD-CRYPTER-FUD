@@ -9,3 +9,6 @@ Features
 7 - AutoIt Scripting Language
 8- Install the server silently at startup
 There are many advantages that you can discover
+
+
+![photo_2023-12-01_02-55-19](https://github.com/SilentkillertvDeveloper/GOLD-CRYPTER-FUD/assets/119045059/bb6cc52d-08ea-48c7-8035-e6328d6b16a3)
